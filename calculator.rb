@@ -1,4 +1,4 @@
 # Add your variables here
 
-let first_number = 0
+var first_number = 0
 
