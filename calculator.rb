@@ -1,4 +1,4 @@
 # Add your variables here
 
-var first_number = 0
+first_number = 0
 
